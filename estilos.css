@@ -23,7 +23,7 @@ body{
 .header{
     height: 100vh;
     /* 02 */
-    background-image: linear-gradient(to top, rgba(251, 194, 235, 0.486) 0%, hsla(218, 68%, 79%, 0.514) 100%), url(img/woman.jpg);
+    background-image: linear-gradient(to top, rgba(251, 228, 194, 0.486) 0%, hsla(27, 68%, 79%, 0.514) 100%), url(img/fondo.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -37,7 +37,7 @@ body{
     flex-direction: column;
     justify-content: center;
     text-align: center;
-    color: #fff;
+    color: black;
 }
 
 
@@ -60,9 +60,9 @@ body{
     height: 100%;
     /* background-image: linear-gradient(to top, #fbc2eb 0%, #a6c0ee 100%); */
     /* 02 */
-    background-image: linear-gradient(to top, #a18cd1 0%, #fbc2eb 100%);
+    background-image: linear-gradient(to top, #d1ad8c 0%, #fbc2eb 100%);
     /* 028 */
-    background-image: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    background-image: linear-gradient(135deg, #eaa166 0%, #a2954b 100%);
     display: flex;
     flex-direction: column;
     justify-content: space-evenly;
@@ -78,7 +78,7 @@ body{
 }
 
 .menu-navegacion a{
-    color: #fff;
+    color: black;
     text-decoration: none;
 }
 
@@ -97,7 +97,7 @@ body{
 /* Services */
 
 .subtitulo{
-    color: #9f8ad0;
+    color: #db8624e5;
     font-size: 40px;
     text-align: center;
     font-weight: 300;
@@ -125,13 +125,13 @@ body{
 
 .n-service{
     margin-bottom: 7px;
-    color: #9f8ad0;
+    color:  #db8624e5;
 }
 
 .number{
     display: inline-block;
     /* 02 */
-    background-image: linear-gradient(to top, #a18cd1 0%, #fbc2eb 100%);
+    background-image: linear-gradient(to top, #d1ad8c 0%, #fbc2eb 100%);
     line-height: 30px;
     text-align: center;
     border-radius: 50%;
@@ -226,7 +226,7 @@ body{
 }
 
 footer{
-    background: #9f8ad0;
+    background: #db8624e5;
     padding-bottom: 0.1px;
 }
 
